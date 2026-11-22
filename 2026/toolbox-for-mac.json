@@ -1,0 +1,15 @@
+{
+  "name": "Toolbox for Mac",
+  "url": "https://mactoolbox.app",
+  "description": "102 native Mac tools in one app: video, PDF, images, transcribe and more, all on your Mac",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "30% off every licence",
+  "code": "BLACKFRIDAY30",
+  "pricing": "one-time",
+  "price": { "regular": 19, "sale": 13.3, "currency": "USD" },
+  "discount": 30,
+  "startDate": "2026-11-25",
+  "endDate": "2026-12-02",
+  "icon": "https://mactoolbox.app/icons/icon-192.png"
+}
